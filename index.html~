@@ -49,7 +49,7 @@
         font-size: 20px;
       }
       .header-icon {
-        margin-top: 35px;
+        margin-top: 30px;
         margin-left: 0px;
         font-size: 25px;
       }
@@ -94,7 +94,7 @@
   <body>
     <div id='header'>
       <div id='header-inner'>
-        <img src='images/me-v2.jpg' class='img-circle img-me'>
+        <img src='images/fujen.png' class='img-circle img-me'>
         <div class='header-text'>
           <div class='header-text-name'>
             Fu-Jen Chu
@@ -107,6 +107,7 @@
             <a href="https://www.linkedin.com/in/fujenchu"  target="_blank" class="fa fa-linkedin"></a>
             <a href="https://www.facebook.com/fujen.chu"  target="_blank" class="fa fa-facebook"></a>
             <a href="https://twitter.com/FuJenChu1"  target="_blank" class="fa fa-twitter"></a>
+            <a href="mailto:fujenchu@gatech.edu" class="fa fa-envelope"></a>
           </div>
         </div>
       </div>
@@ -137,7 +138,7 @@
 
           <div class='row vspace-top'>
             <div class='col-xs-3 text-center'>
-              <img class='paper-image' src='images/synsin.gif'>
+              <img class='paper-image' src='images/gknet.png'>
             </div>
             <div class='col-xs-9'>
               <div class='paper-title'>
@@ -150,7 +151,7 @@
               </div>
               <div>arXiv: to appear</div>
               <div>
-                <a href=''>[arXiv]</a>
+                <a href=''>[pdf]</a>
                 <a href=''>[project]</a>
               </div>
             </div>
@@ -158,7 +159,7 @@
 
           <div class='row vspace-top'>
             <div class='col-xs-3 text-center'>
-              <img class='paper-image' src='images/iep_thumb.png'>
+              <img class='paper-image' src='images/context.png'>
             </div>
             <div class='col-xs-9'>
               <div class='paper-title'>
@@ -177,7 +178,118 @@
             </div>
           </div>
 
+          <div class='row vspace-top'>
+            <div class='col-xs-3 text-center'>
+              <img class='paper-image' src='images/shape.png'>
+            </div>
+            <div class='col-xs-9'>
+              <div class='paper-title'>
+                Using Synthetic Data and Deep Networks to Recognize Primitive Shapes for Object Grasping
+              </div>
+              <div class='paper-authors'>
+                <a href='https://www.linkedin.com/in/yunzhi-lin-53165a139/' target="_blank">Yunzhi Lin*</a>,
+                <a href='https://www.linkedin.com/in/chao-tang-280311179/' target="_blank">Chao Tang*</a>,
+                <u>Fu-Jen Chu</u>,
+                <a href='https://scholar.google.com/citations?user=qL6ycTgAAAAJ&hl=en' target="_blank">Patricio A. Vela</a>
+              </div>
+              <div>ICRA 2020</div>
+              <div>
+                <a href='https://arxiv.org/pdf/1909.08508.pdf' target="_blank">[pdf]</a>
+                <a href='https://sites.google.com/view/primitive-shape-grasping' target="_blank">[project]</a>
+                <a href='https://github.com/ivalab/grasp_primitiveShape' target="_blank">[code]</a>
+                <a href='https://www.youtube.com/watch?time_continue=6&v=AZuLpEzQMYQ&feature=emb_logo' target="_blank">[video]</a>
+              </div>
+            </div>
+          </div>
 
+          <div class='row vspace-top'>
+            <div class='col-xs-3 text-center'>
+              <img class='paper-image' src='images/pddl.png'>
+            </div>
+            <div class='col-xs-9'>
+              <div class='paper-title'>
+                Toward Affordance Detection and Ranking on Novel Objects for Real-world Robotic Manipulation
+              </div>
+              <div class='paper-authors'>
+                <u>Fu-Jen Chu</u>,
+                <a href='https://www.linkedin.com/in/gtsimonxu/' target="_blank">Ruinian Xu</a>,
+                <a href='https://www.linkedin.com/in/landan-seguin/' target="_blank">Landan Seguin</a>,
+                <a href='https://scholar.google.com/citations?user=qL6ycTgAAAAJ&hl=en' target="_blank">Patricio A. Vela</a>
+              </div>
+              <div>IEEE RA-L 2019 with IROS 2019</div>
+              <div>
+                <a href='https://ieeexplore.ieee.org/abstract/document/8770077' target="_blank">[pdf]</a>
+                <a href='https://sites.google.com/view/toader' target="_blank">[project]</a>
+                <a href='https://www.youtube.com/watch?time_continue=48&v=EYCWq3aSAiE&feature=emb_logo' target="_blank">[video]</a>
+              </div>
+            </div>
+          </div>
+
+          <div class='row vspace-top'>
+            <div class='col-xs-3 text-center'>
+              <img class='paper-image' src='images/affordance.png'>
+            </div>
+            <div class='col-xs-9'>
+              <div class='paper-title'>
+                Learning Affordance Segmentation for Real-world Robotic Manipulation via Synthetic Images
+              </div>
+              <div class='paper-authors'>
+                <u>Fu-Jen Chu</u>,
+                <a href='https://www.linkedin.com/in/gtsimonxu/' target="_blank">Ruinian Xu</a>,
+                <a href='https://scholar.google.com/citations?user=qL6ycTgAAAAJ&hl=en' target="_blank">Patricio A. Vela</a>
+              </div>
+              <div>IEEE RA-L 2019 with ICRA 2019</div>
+              <div>
+                <a href='https://ieeexplore.ieee.org/abstract/document/8620534'>[pdf]</a>
+                <a href='https://sites.google.com/view/affordance-learn'>[project]</a>
+                <a href='https://www.youtube.com/watch?v=njb2r_dRcuM&feature=emb_logo' target="_blank">[video]</a>
+              </div>
+            </div>
+          </div>
+
+          <div class='row vspace-top'>
+            <div class='col-xs-3 text-center'>
+              <img class='paper-image' src='images/deepgrasp.png'>
+            </div>
+            <div class='col-xs-9'>
+              <div class='paper-title'>
+                Real-World, Multiobject, Multigrasp Detection
+              </div>
+              <div class='paper-authors'>
+                <u>Fu-Jen Chu</u>,
+                <a href='https://www.linkedin.com/in/gtsimonxu/' target="_blank">Ruinian Xu</a>,
+                <a href='https://scholar.google.com/citations?user=qL6ycTgAAAAJ&hl=en' target="_blank">Patricio A. Vela</a>
+              </div>
+              <div>IEEE RA-L 2018 with IROS 2018</div>
+              <div>
+                <a href='https://arxiv.org/pdf/1802.00520.pdf'>[pdf]</a>
+                <a href='https://sites.google.com/view/deepgrasp'>[project]</a>
+              </div>
+            </div>
+          </div>
+
+          <div class='row vspace-top'>
+            <div class='col-xs-3 text-center'>
+              <img class='paper-image' src='images/handy_tds.png'>
+            </div>
+            <div class='col-xs-9'>
+              <div class='paper-title'>
+                Hands-Free Control of an Assistive Manipulator Using Augmented Reality and Tongue Drive System
+              </div>
+              <div class='paper-authors'>
+                <u>Fu-Jen Chu</u>,
+                <a href='https://www.linkedin.com/in/gtsimonxu/' target="_blank">Ruinian Xu</a>,
+                <a href=''>Zhenxuan Zhang</a>,
+                <a href='https://scholar.google.com/citations?user=qL6ycTgAAAAJ&hl=en' target="_blank">Patricio A. Vela</a>,
+                <a href=''>Maysam Ghovanloo</a>
+              </div>
+              <div>IROS 2018</div>
+              <div>
+                <a href='https://arxiv.org/pdf/1802.00520.pdf'>[pdf]</a>
+                <a href='https://sites.google.com/view/deepgrasp'>[project]</a>
+              </div>
+            </div>
+          </div>
 <!--
         <div class='row vspace-top'>
           <h1>Side Projects</h1>
