@@ -18,7 +18,7 @@
       #header {
         width: 100%;
         height: 360px;
-        background-color: #F0EAD6
+        background-color: #3b5998
       }
       #header-inner {
         position: absolute;
@@ -96,10 +96,10 @@
             fujenchu at gatech dot edu
           </div>
           <div>
-            <a href="https://github.com/fujenchu" target="_blank">[GitHub]</a>
-            <a href="https://scholar.google.com/citations?user=JssCErIAAAAJ&hl=en" target="_blank">[Google Scholar]</a>
-            <a href="https://www.linkedin.com/in/fujenchu" target="_blank">[LinkedIn]</a>
-            <a href="https://twitter.com/FuJenChu1" target="_blank">[Twitter]</a>
+            <a href="https://github.com/fujenchu">[GitHub]</a>
+            <a href="https://scholar.google.com/citations?user=JssCErIAAAAJ&hl=en">[Google Scholar]</a>
+            <a href="https://www.linkedin.com/in/fujenchu">[LinkedIn]</a>
+            <a href="https://twitter.com/FuJenChu1">[Twitter]</a>
           </div>
         </div>
       </div>
