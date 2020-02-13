@@ -4,7 +4,25 @@
     <script src='js/jquery-1.11.2.min.js'></script>
     <script src='js/bootstrap.min.js'></script>
     <link href='css/bootstrap.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="css/bootstrap.font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
 
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,500,700,900,100italic,100,300,300italic,400italic,500italic,900italic,700italic' rel='stylesheet' type='text/css'>
     <style>
