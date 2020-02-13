@@ -124,14 +124,16 @@ EBEBEB
         <div class='row'>
           <h1>About</h1>
           <div class='vspace'>
-            I am a PhD student at Georgia Tech.
+            I am currently a Ph.D. student at Georgia Tech, advised by 
+            <a href="https://www.ece.gatech.edu/faculty-staff-directory/patricio-antonio-vela" target='_blank'> Prof. Patricio A. Vela</a> in 
+            <a href="http://ivalab.gatech.edu/" target='_blank'> IVALab</a> 
+
           </div>
           <div class='vspace'>
-            I am interested in robotics, computer vision and machine learning.
+            My goal is to achieve vision-based robotic manipulation with affordance understanding, and allow intelligent machines to interact with the physical world. My research interest lies at the intersection of robotics, computer vision and machine learning.
           </div>
           <div class='vspace'>
-            I am advised by 
-            <a href="https://www.ece.gatech.edu/faculty-staff-directory/patricio-antonio-vela" target='_blank'>Patricio A. Vela</a>.
+            Before I started my Ph.D., I obtained M.S. from EECS at University of Michigan (UM), and B.S. from EE at National Taiwan University (NTU), in 2014 and 2011 respectively. 
           </div>
         </div>
 <!--
@@ -376,8 +378,8 @@ EBEBEB
               <img class='intern-image' src='images/ti-logo.png '>
             </div>
             <div class='col-xs-9'>
-	      <h4 class="featurette-heading "> Texas Instruments, Perception and Analytics R&D lab</h4>
-              <h5 class="featurette-heading ">May 2016 - Aug. 2016 </h5>
+	      <h4 class="featurette-heading "> Texas Instruments, Perception and Analytics R&D lab, May 2016 - Aug. 2016</h4>
+              <h5 class="featurette-heading "> multi-body structure from motion </h5>
 	      <h5>
                 Director: <a href="https://www.linkedin.com/in/murtaza-ali-4381236/" target="_blank"> Dr. Murtaza Ali</a>, 
                 Mentors:  <a href="https://www.linkedin.com/in/martin-mueller-71303957/" ,="" target="_blank ">Dr. Martin Mueller</a>, 
@@ -390,8 +392,8 @@ EBEBEB
               <img class='intern-image' src='images/Volvo_logos.jpg '>
             </div>
             <div class='col-xs-9'>
-	      <h4 class="featurette-heading "> Volvo Group, Volvo CE Emerging Technology team</h4>
-              <h5 class="featurette-heading ">Jan. 2016 - May 2016 </h5>
+	      <h4 class="featurette-heading "> Volvo Group, CE Emerging Technology team, Jan. 2016 - May 2016</h4>
+              <h5 class="featurette-heading "> pedestrian detector/tracker for ADAS </h5>
 	      <h5>
                 Director: <a href="https://www.linkedin.com/in/faresbeainy/" target="_blank"> Dr. Fares Beainy</a>
             </div>
