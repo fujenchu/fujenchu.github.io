@@ -52,7 +52,7 @@
         width: 20%;
         top: 360px;
         height: 100px;
-        background-color: #EEE;
+        background-color: #ffffff;
       }
       .vspace {
         margin-bottom: 20px;
