@@ -400,8 +400,32 @@ EBEBEB
           </div>
 
 
+      <div class="row">
+          <h1 id="projects ", class="page-header "> Internships </h1>
+      <div class="col-sm-4 col-xs-6 school">
+        <img src="about/stanford_seal.png" class="img-fluid school-fig">
+        <p>Stanford University</p>
+        <p><small>Doctor of Philosophy</small></p>
+        <p><small>Computer Science</small></p>
+        <p></p>
+      </div>
+      <div class="col-sm-4 col-xs-6 school">
+        <img src="about/stanford_seal.png" class="img-fluid school-fig">
+        <p>Stanford University</p>
+        <p><small>Master of Science</small></p>
+        <p><small>Computer Science</small></p>
+        <p></p>
+      </div>
+      <div class="col-sm-4 col-xs-6 school">
+        <img src="about/uiuc_seal.png" class="img-fluid school-fig">
+        <p>University of Illinois Urbana-Champaign</p>
+        <p><small>Bachelor of Science</small></p>
+        <p><small>Electrical and Computer Engineering</small></p>
+        <p></p>
+      </div>
+    </div>
 
-
+<!--
         <div class='row vspace-top'>
           <h1 id="projects ", class="page-header "> Side Projects </h1>
 
@@ -414,7 +438,7 @@ EBEBEB
 
             <h3>Image Segmentation with Learned features using Deep CNN</h3>
           Applied edge information and learned features from deep CNN as two ways of similarity measurements.
-
+-->
         </div>
 
         <div class='row vspace-top'></div>
